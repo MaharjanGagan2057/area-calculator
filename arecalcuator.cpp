@@ -25,11 +25,10 @@ int main()
       double area2 = length2*breath2;
     cout << "The area of the rectangle 2 is :"<<area2 <<" "<<a <<endl <<endl;
     
-    
+    //if,else if, else satetment
     if (area<area2){
         cout<<"----> ""2st Rectangle Bigger";
     }
-    
     
     else if (area>area2){
         cout  <<" 1st Rectangle is Bigger ";
@@ -40,5 +39,4 @@ int main()
         }
     return 0;
 }       
-    
     
